@@ -10,6 +10,9 @@ project check out the [documentation of Version 2](https://github.com/MiczFlor/R
 
 ## Quickstart
 
+* For Users: Walkthroughs
+  * [Using the Web UI](./users/web-ui.md)
+  * [Managing Content](./users/content.md)
 * For Builders: Building a Phoniebox
   * [Installing Phoniebox future3](./builders/installation.md)
   * [Builder Guides](./builders/README.md)
